@@ -10,4 +10,4 @@ git push -u origin master
 from second push:
 git add .
 git commit -m "commit label"
-git push -u
+git push 
