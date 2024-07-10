@@ -1,0 +1,8 @@
+git config --global user.name "FidaFaizalkeloth"
+git config --global user.email "email"
+
+git init
+git add .
+git remote add orgin "https://github.com/FidaFaizalkeloth/git-project.git"
+git commit -m "commit_label"
+git push -u orgin master
